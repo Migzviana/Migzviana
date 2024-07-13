@@ -2,7 +2,7 @@
 
 - 🌱 Estudando sobre Desenvolvimento Front-End
 - 💬 Pergunte-me sobre qualquer coisa
-- ⚡ Fato divertido: Amo programação e musica
+- ⚡ Fato divertido: Amo programação e jogos
 
 ## 🚀 Minhas Habilidades
 
