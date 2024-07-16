@@ -1,6 +1,6 @@
 # Olá, meu nome é Miguel Viana 👋
 
-- 🌱 Estudando sobre Desenvolvimento Front-End
+- 🌱 Estudando sobre Desenvolvimento FullStack
 - 💬 Pergunte-me sobre qualquer coisa
 - ⚡ Fato divertido: Amo programação e jogos
 
