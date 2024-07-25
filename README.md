@@ -19,11 +19,6 @@
   <img align="center" alt="PostgreSQL" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migzviana&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
 ## 📫 Contato
 
 <div style="display: inline_block"><br>
